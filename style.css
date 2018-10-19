@@ -4,3 +4,14 @@ height: 600px;
 background-size: cover;
 color: white;
 }
+
+.icon {
+  display: inline !important;
+  width: 10%;
+  height: auto;
+}
+
+.card {
+  width: 50%auto;
+  height: 50%;
+}
