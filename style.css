@@ -1,0 +1,6 @@
+.headshot {
+background-image: url("assets/headshot.jpg");
+height: 600px;
+background-size: cover;
+color: white;
+}
