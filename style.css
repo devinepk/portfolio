@@ -1,9 +1,18 @@
-.headshot {
-background-image: url("assets/headshot.jpg");
-height: 500px;
-background-size: cover;
-color: white;
+body {
+  background-color: #EFEDF2;
+
 }
+
+
+.headshot {
+  background-image: url("https://images.unsplash.com/photo-1523958631412-cd125bb67e58?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5db2d9bf033d42dcf542a08d7fa695f1&auto=format&fit=crop&w=1019&q=80");
+  height: 500px;
+  background-size: cover;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
 
 .icon {
   display: inline !important;
@@ -16,10 +25,10 @@ color: white;
   height: 50%;
 }
 
-/* #cards {
-  background-color: #040A1A;
-}
 
-#middle {
-  background-color: #B8B7BD;
-} */
+.photo {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
